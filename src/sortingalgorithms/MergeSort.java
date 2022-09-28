@@ -10,6 +10,7 @@ public class MergeSort {
      */
     public MergeSort(int[] list) {
         aux = new int[list.length];
+        System.out.println("==========================================");
         System.out.println("                Merge Sort                ");
         System.out.println("==========================================");
         System.out.println("Lista pré ordenação");

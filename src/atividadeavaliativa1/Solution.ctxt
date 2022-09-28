@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Solution
+comment1.params=s\ n
+comment1.target=java.lang.String\ ex1(java.lang.String,\ int)
+comment2.params=n
+comment2.target=int[][]\ ex2(int)
+comment3.params=a\ b\ c
+comment3.target=int[]\ ex3(int[],\ int[],\ int[])
+comment4.params=a
+comment4.target=int\ ex4(int[])
+numComments=5
